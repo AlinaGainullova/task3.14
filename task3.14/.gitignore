@@ -1,0 +1,23 @@
+# Ignore IDE specific files
+.idea/
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+*.sw*
+*.suo
+*.njsproj
+*.sln
+*.ntvs*
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+# Ignore all local history of files VisualStudioCode Patch
+.history
+.ionide
