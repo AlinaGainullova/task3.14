@@ -3,7 +3,8 @@
 # История происхождения Git
 
 ![Linus Torvalds](/task3.14/assets/Linus_Torvalds.jpeg)
-   Автор: Unknown photographer who sold rights to the picture to linuxmag.com — Linuxmag.com; The image is from an article in a December 2002 issue of Linux Magazine, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=17991
+   
+Автор: Unknown photographer who sold rights to the picture to linuxmag.com — Linuxmag.com; The image is from an article in a December 2002 issue of Linux Magazine, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=17991
 
  **Линус То́рвальдс** (*28 декабря 1969, Хельсинки, Финляндия*) - финно-американский программист, создатель системы управления версиями Git.
 
